@@ -68,8 +68,18 @@
 <p>GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007</p>
 
+
 <br>
 <p><a href="#top">🔝 Back to top</a></p>
 
 </body>
 </html>
+
+<br>
+<h2 id="contact">📬 Contact</h2>
+<p>
+📉 Passionate about data science and coding? Me too!<br><br>
+🟣 Let's make something great together. Email me at <a href="mailto:renatadalmeidas@gmail.com">renatadalmeidas@gmail.com</a><br><br>
+🟣 Connect with me on <a href="https://www.linkedin.com/in/renata-d-almeida/">LinkedIn</a> for more updates on my projects and professional endeavors
+</p>
+
